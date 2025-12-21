@@ -1,0 +1,16 @@
+{
+  "MAIL_USER": "MISSING",
+  "MAIL_PASS": "MISSING",
+  "users": [
+    {
+      "email": "bobbyudamala@gmail.com",
+      "displayName": "Bobby",
+      "confirmed": true
+    },
+    {
+      "email": "udamalabaladityalakshmoji@gmail.com",
+      "displayName": "Aditya ",
+      "confirmed": true
+    }
+  ]
+}
